@@ -1,0 +1,13 @@
+.DS_Store
+.sass-cache
+
+# Sublime project files
+*.sublime-project
+*.sublime-workspace
+
+# IntelliJ IDEA project files
+.idea
+*.iml
+
+# vscode project files
+.vscode
